@@ -1,0 +1,20 @@
+{
+  "balance": 950.0,
+  "starting_balance": 1000.0,
+  "positions": {
+    "1574975": {
+      "question": "Will the highest temperature in Dallas be between 86-87\u00b0F on March 15?",
+      "entry_price": 0.0005,
+      "shares": 100000.0,
+      "cost": 50.0,
+      "date": "2026-03-15",
+      "location": "dallas",
+      "forecast_temp": 86,
+      "opened_at": "2026-03-15T19:49:04.052005"
+    }
+  },
+  "trades": [],
+  "total_trades": 1,
+  "wins": 0,
+  "losses": 0
+}
